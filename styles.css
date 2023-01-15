@@ -1,2 +1,11 @@
+.row{
+	display: flex;
+}
 
+
+.col-js-4{
+	
+	flex: 8.33%;
+	padding: 5px;
+}
 /* Your CSS Code here. */
